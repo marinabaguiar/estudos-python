@@ -8,3 +8,4 @@ Repositório com os exercícios de lógica de programação que venho fazendo co
 - Condicionais (if/elif/else)
 - Laços de repetição (while/for)
 - Funções
+- Listas
